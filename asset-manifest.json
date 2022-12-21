@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/softbody_webgl/static/css/main.8e296143.css",
+    "main.js": "/softbody_webgl/static/js/main.80c25345.js",
+    "index.html": "/softbody_webgl/index.html",
+    "main.8e296143.css.map": "/softbody_webgl/static/css/main.8e296143.css.map",
+    "main.80c25345.js.map": "/softbody_webgl/static/js/main.80c25345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e296143.css",
+    "static/js/main.80c25345.js"
+  ]
+}
