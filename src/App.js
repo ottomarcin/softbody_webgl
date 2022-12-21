@@ -11,6 +11,23 @@ function App() {
     <>
       <Canvas />
       <Menu />
+      <a
+        target='_blank'
+        // style={{
+        //   display: 'flex',
+        //   alignItems: 'center',
+        //   justifyContent: 'center',
+        //   position: 'absolute',
+        //   // bottom: 0,
+        //   right: 0,
+        //   margin: '1em',
+        //   zIndex: 10,
+        //   color: 'black',
+        // }}
+        href='https://github.com/ottomarcin/softbody_webgl'
+      >
+        Check code on Github
+      </a>
     </>
   );
 }
